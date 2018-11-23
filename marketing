@@ -1,0 +1,12 @@
+POST https://mc2m2z16rt5bqpz0jxhcp50yyg70.auth.marketingcloudapis.com/v1/requestToken
+Content-Type: application/json
+{
+    "clientId": "YOUR_CLIENT_ID",
+    "clientSecret": "YOUR_CLIENT_SECRET"
+}
+
+200 OK
+{
+    "accessToken": "YOUR_ACCESS_TOKEN"
+    "expiresIn": 3600
+}
