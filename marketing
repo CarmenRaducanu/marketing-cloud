@@ -1,8 +1,8 @@
 POST https://mc2m2z16rt5bqpz0jxhcp50yyg70.auth.marketingcloudapis.com/v1/requestToken
 Content-Type: application/json
 {
-    "clientId": "YOUR_CLIENT_ID",
-    "clientSecret": "YOUR_CLIENT_SECRET"
+    "clientId": "17y762dme6loinmcyg2g7yd6",
+    "clientSecret": "oU1D57stlgxiNxCh0njasZOw"
 }
 
 200 OK
